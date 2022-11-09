@@ -3,6 +3,7 @@
 
 
 int main() {
-	//insertFromHead();
-	insertWithIndex();
+
+	//insertFromHead();		// ll1
+	insertWithIndex();		// ll2
 }
