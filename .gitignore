@@ -3,6 +3,28 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+## For Visual Studio Generated projects
+*.sln
+**/*.vcxproj
+**/*.vcxproj.filters
+*.VC.opendb
+*.sdf
+**/*.suo
+**/*.user
+.vs/*
+**/Debug/*
+CMakeFiles/*
+EASTL.dir/**
+RelWithDebInfo/*
+Release/*
+Win32/*
+x64/*
+MinSizeRel/*
+build*/*
+Testing/*
+%ALLUSERSPROFILE%/*
+
+
 # User-specific files
 *.rsuser
 *.suo
