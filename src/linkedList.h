@@ -2,3 +2,4 @@
 
 void insertFromHead();
 void insertWithIndex();
+void delWithIndex();

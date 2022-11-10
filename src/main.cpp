@@ -5,5 +5,6 @@
 int main() {
 
 	//insertFromHead();		// ll1
-	insertWithIndex();		// ll2
+	//insertWithIndex();		// ll2
+	delWithIndex();
 }
