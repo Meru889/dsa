@@ -4,7 +4,10 @@
 
 int main() {
 
-	//insertFromHead();		// ll1
-	//insertWithIndex();		// ll2
-	delWithIndex();
+	//insertFromHead();	
+	//insertWithIndex();	
+	//delWithIndex();
+	//reverse();
+	//printList();
+	reverseList();
 }

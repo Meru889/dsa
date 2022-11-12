@@ -1,5 +1,9 @@
 #include<iostream>
 
+
+
+//在linkedList任意位置加入元素
+
 class Node2 {
 public:
     int data;

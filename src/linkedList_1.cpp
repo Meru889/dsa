@@ -1,5 +1,7 @@
 #include<iostream>
 
+
+//始终在linkedList头部加入元素
 class Node {
 public:
     int value;
