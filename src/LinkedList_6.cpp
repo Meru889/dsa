@@ -1,5 +1,7 @@
 #include <iostream>
 
+
+//µİ¹éµ¥ÏòÁ´±í
 class Node6 {
 public:
 	int data;

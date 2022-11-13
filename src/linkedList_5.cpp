@@ -1,5 +1,6 @@
 #include <iostream>
 
+//递归方式翻转打印链表
 class Node5 {
 public:
 	int data;
