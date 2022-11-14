@@ -9,5 +9,7 @@ int main() {
 	//delWithIndex();
 	//reverse();
 	//printList();
-	reverseList();
+	//reverseList();
+	//testNode7Head();
+	testNode7Tail();
 }

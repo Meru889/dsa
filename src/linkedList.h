@@ -6,3 +6,5 @@ void delWithIndex();
 void reverse();
 void printList();
 void reverseList();
+void testNode7Head();
+void testNode7Tail();
