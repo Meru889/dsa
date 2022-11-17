@@ -8,3 +8,4 @@ void printList();
 void reverseList();
 void testNode7Head();
 void testNode7Tail();
+void test_stack1();
