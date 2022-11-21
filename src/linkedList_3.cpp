@@ -1,7 +1,7 @@
 #include <iostream>
 
 
-// 从linkedList中删除一个元素
+// del node from linkedlist
 class Node3 {
 public:
 	int data;

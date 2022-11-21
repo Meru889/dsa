@@ -2,7 +2,7 @@
 
 
 
-//在linkedList任意位置加入元素
+// add a element to the linkedlist anywhere
 
 class Node2 {
 public:

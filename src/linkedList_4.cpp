@@ -1,6 +1,6 @@
 #include <iostream>
 
-// 迭代方式翻转一个链表
+// reverse linkedlist using iterative
 class Node4 {
 public:
 	int data;

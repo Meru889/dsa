@@ -1,7 +1,7 @@
 #include <iostream>
 
 
-// implemention stack with array 
+// implement stack with array 
 
 constexpr int MAX_CAP = 20;
 

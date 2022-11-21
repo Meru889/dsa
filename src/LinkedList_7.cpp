@@ -1,7 +1,7 @@
 #include <iostream>
 
 
-// 实现双向链表
+// doubly linkedlist implementation
 class Node7 {
 public:
 	int data;

@@ -1,6 +1,6 @@
 #include <iostream>
 
-//递归方式翻转打印链表
+// print elements of linkedlist in forward and reverse order
 class Node5 {
 public:
 	int data;

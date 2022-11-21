@@ -12,5 +12,6 @@ int main() {
 	//reverseList();
 	//testNode7Head();
 	//testNode7Tail();
-	test_stack1();
+	//test_stack1();
+	testStack2();
 }
