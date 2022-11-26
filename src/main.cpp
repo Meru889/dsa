@@ -13,5 +13,6 @@ int main() {
 	//testNode7Head();
 	//testNode7Tail();
 	//test_stack1();
-	testStack2();
+	//testStack2();
+	checkBalance();
 }
