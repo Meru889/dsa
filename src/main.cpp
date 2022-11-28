@@ -14,5 +14,6 @@ int main() {
 	//testNode7Tail();
 	//test_stack1();
 	//testStack2();
-	checkBalance();
+	//checkBalance();
+	testConverFix();
 }

@@ -11,3 +11,4 @@ void testNode7Tail();
 void test_stack1();
 void testStack2();
 void checkBalance();
+void testConverFix();
