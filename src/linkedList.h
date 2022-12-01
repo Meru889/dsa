@@ -12,3 +12,4 @@ void test_stack1();
 void testStack2();
 void checkBalance();
 void testConverFix();
+void testQueue();
