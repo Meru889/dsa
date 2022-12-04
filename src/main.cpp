@@ -16,5 +16,6 @@ int main() {
 	//testStack2();
 	//checkBalance();
 	//testConverFix();
-	testQueue();
+	//testQueue();
+	testQueue2();
 }
